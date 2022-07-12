@@ -10,6 +10,9 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [Taking Bun JS for a test drive (New Javascript Runtime, Node/Deno killer?)](https://www.youtube.com/watch?v=88EX0X4jA2o)
 - [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner & The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&t=2954s)
 
+## Articles/Threads
+- [Node is ~3 times faster than Bun in my small benchmark](https://www.reddit.com/r/node/comments/vwuxqr/node_is_3_times_faster_than_bun_in_my_small/)  (*Reddit Thread with [Author's reply](https://www.reddit.com/r/node/comments/vwuxqr/comment/ifv55f2)*)
+
 
 ## Frameworks & Libraries
 - [Baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime
