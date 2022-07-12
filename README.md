@@ -23,4 +23,4 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime
 
 ## Tooling
-- [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun)
+- [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun) - Starter project for trying out Bun without having to install locally
