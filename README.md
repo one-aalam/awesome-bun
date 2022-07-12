@@ -11,9 +11,11 @@ Bun is a fast all-in-one JavaScript runtime. This is a central reference to many
 - [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner & The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&t=2954s)
 
 
-## Frameworks
+## Frameworks & Libraries
 - [Baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime
 - [hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
+- [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.
+- [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime
 
 ## Tooling
 - [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun)
