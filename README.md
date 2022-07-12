@@ -1,7 +1,7 @@
 # Awesome Bun
-Bun is a fast all-in-one JavaScript runtime. This is a central reference to many awesome things about bun out there. 
+[Bun](https://bun.sh/) is a fast all-in-one JavaScript runtime. This is a central reference to many awesome things about Bun out there. 
 
-[Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312) - Author/Jarred Sumnor's Tweet
+Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312) by Author/Jarred Sumnor(Tweet) or the Bun [README](https://github.com/oven-sh/bun) for API reference and example use cases
 
 ## Videos
 - [JavaScript just got way faster](https://www.youtube.com/watch?v=FMhScnY0dME)
@@ -14,7 +14,9 @@ Bun is a fast all-in-one JavaScript runtime. This is a central reference to many
 ## Frameworks & Libraries
 - [Baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime
 - [hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
+- [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.
+- [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Use Next.js 12 with bun
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime
 
 ## Tooling
