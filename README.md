@@ -17,9 +17,13 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 ## Frameworks & Libraries
 - [Baojs](https://github.com/mattreid1/baojs) - A fast, minimalist web framework for the Bun JavaScript runtime
 - [hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
-- [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server.
+- [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast
+- [Bun Bakery](https://github.com/Kapsonfire-DE/bun-bakery) - A web framework for Bun that uses a file based router like Next.js/svelte-kit
+- [Kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework
+- [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server
+- [Hyperbun](https://github.com/Eckhardt-D/hyperbun) - A simple HTTP routing library built on top of Bun's built in HTTP solution
 - [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Use Next.js 12 with bun
+- [svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)- A SvelteKit adapter for Bun
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime
 
 ## Tooling
