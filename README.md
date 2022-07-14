@@ -22,12 +22,26 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [Kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server
 - [Hyperbun](https://github.com/Eckhardt-D/hyperbun) - A simple HTTP routing library built on top of Bun's built in HTTP solution
+- [Fastify-Edge](https://github.com/galvez/fastify-edge) - Use Fastify idioms for writing Cloudflare Workers and Bun servers
+- [ColstonJS](https://github.com/ajimae/colstonjs) - Zero dependency framework for bunjs
 - [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Use Next.js 12 with bun
 - [svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)- A SvelteKit adapter for Bun
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime
+- [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun
 - [YouTube-sr](https://github.com/DevAndromeda/youtube-sr) - Simple library for Node, Deno & Bun to make YouTube search easily
 - [create-bun](https://github.com/guocaoyi/create-bun) - Bun bolierplate starter
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
+- [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun
 
 ## Tooling
 - [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun) - Starter project for trying out Bun without having to install locally
+- [Sublime Bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff
+
+## Experiments with Bun
+- [Remix + Bun](https://github.com/jacob-ebey/remix-bun-testing) - Example Remix application running on Bun with `bun:sqlite`
+- [tRPC + Bun](https://github.com/sachinraja/trpc-bun) - Example React application running on Bun with tRPC
+- [BunSpreader](https://github.com/ThePrimeagen/BunSpreader) - The ultimate bun spreading performance testings.
+- [The Wall API](https://github.com/jmerilainen/the-wall-api-bun) - Example REST API built from scratch and with zero dependencies
+- [Sunshine](https://github.com/jackharrhy/sunshine) - Discord bot to search mun's sunshine list
+- [Bun KV Store](https://github.com/nunogois/bun-kv-store) - A basic key-value store made with the purpose of checking out Bun
+
