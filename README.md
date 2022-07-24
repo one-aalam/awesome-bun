@@ -33,10 +33,12 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [create-bun](https://github.com/guocaoyi/create-bun) - Bun bolierplate starter
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun
+- [burm](https://github.com/william-mcgonagle/burm)
 
 ## Tooling
 - [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun) - Starter project for trying out Bun without having to install locally
 - [Sublime Bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff
+- [Bun-Doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 
 ## Experiments with Bun
 - [Remix + Bun](https://github.com/jacob-ebey/remix-bun-testing) - Example Remix application running on Bun with `bun:sqlite`
