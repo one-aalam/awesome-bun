@@ -33,7 +33,7 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [create-bun](https://github.com/guocaoyi/create-bun) - Bun bolierplate starter
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
 - [bun-utilities](https://github.com/xHyroM/bun-utilities) - Bindings for useful functions for bun
-- [burm](https://github.com/william-mcgonagle/burm)
+- [burm](https://github.com/william-mcgonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun
 
 ## Tooling
 - [VSCode + Bun](https://github.com/kosalanuwan/vscode-remote-try-bun) - Starter project for trying out Bun without having to install locally
