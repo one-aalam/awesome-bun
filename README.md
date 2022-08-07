@@ -13,6 +13,7 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 ## Articles/Threads
 - [Node is ~3 times faster than Bun in my small benchmark](https://www.reddit.com/r/node/comments/vwuxqr/node_is_3_times_faster_than_bun_in_my_small/)  (*Reddit Thread with [Author's reply](https://www.reddit.com/r/node/comments/vwuxqr/comment/ifv55f2)*)
 - [bun:ffi - call native libraries from JS at 3x to 100x speed than Node.js and Deno](https://twitter.com/jarredsumner/status/1521527222514774017) (Twitter thread)
+- [Bun - Wiptest - A super-fast test runner (currently WIP)](https://twitter.com/jarredsumner/status/1542824445810642946)
 
 
 ## Frameworks & Libraries
