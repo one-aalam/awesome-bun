@@ -24,6 +24,7 @@ Read [Intro to Bun](https://twitter.com/jarredsumner/status/1544460933753229312)
 - [Kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework
 - [siopao](https://github.com/wobsoriano/siopao) - A minimal routing library designed to sit on top of Bun's fast HTTP server
 - [Hyperbun](https://github.com/Eckhardt-D/hyperbun) - A simple HTTP routing library built on top of Bun's built in HTTP solution
+- [Bunrest](https://github.com/lau1944/bunrest) - Express like API for Bun HTTP server
 - [Fastify-Edge](https://github.com/galvez/fastify-edge) - Use Fastify idioms for writing Cloudflare Workers and Bun servers
 - [ColstonJS](https://github.com/ajimae/colstonjs) - Zero dependency framework for bunjs
 - [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Use Next.js 12 with bun
